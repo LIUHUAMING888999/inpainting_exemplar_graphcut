@@ -1,0 +1,14 @@
+name,       psnr       ,ssim      ,fsim            ,EPRa      
+name:012.png---->psnr:19.066173,ssim:0.912936,fsim:0.923147,EPRa:0.900045
+name:056.png---->psnr:25.701179,ssim:0.942836,fsim:0.950567,EPRa:0.915037
+name:104.png---->psnr:42.865980,ssim:0.998015,fsim:0.995657,EPRa:0.995636
+name:105.png---->psnr:49.257203,ssim:0.999203,fsim:0.998339,EPRa:0.988105
+name:106.png---->psnr:21.930514,ssim:0.925274,fsim:0.910895,EPRa:0.874572
+name:107.png---->psnr:36.483013,ssim:0.995596,fsim:0.994146,EPRa:0.992263
+name:109.png---->psnr:20.562282,ssim:0.892087,fsim:0.919432,EPRa:0.730435
+name:110.png---->psnr:23.406451,ssim:0.940206,fsim:0.949174,EPRa:0.826514
+name:112.png---->psnr:21.508909,ssim:0.899334,fsim:0.902106,EPRa:0.690559
+name:113.png---->psnr:20.861322,ssim:0.920001,fsim:0.910278,EPRa:0.536264
+name:114.png---->psnr:27.421536,ssim:0.993538,fsim:0.996378,EPRa:0.978836
+name:115.png---->psnr:30.457733,ssim:0.984462,fsim:0.991543,EPRa:0.974956
+name:116.png---->psnr:35.122562,ssim:0.978894,fsim:0.992525,EPRa:0.970048
